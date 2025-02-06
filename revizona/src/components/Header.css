@@ -1,0 +1,13 @@
+.container-header{
+    background-color: #005954;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* gap: 25px; usado para dar espaço */ 
+
+}
+
+p{
+    color: aliceblue;
+}
